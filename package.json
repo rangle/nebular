@@ -1,0 +1,23 @@
+{
+  "name": "nebular",
+  "version": "0.0.1",
+  "description": "Using AngularJS services without AngularJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rangle/nebular"
+  },
+  "keywords": [
+    "angular",
+    "modules"
+  ],
+  "author": "Yuri Takhteyev <yuri@yto.io>",
+  "license": "MIT/X",
+  "bugs": {
+    "url": "https://github.com/rangle/nebular/issues"
+  },
+  "homepage": "https://github.com/rangle/nebular"
+}
